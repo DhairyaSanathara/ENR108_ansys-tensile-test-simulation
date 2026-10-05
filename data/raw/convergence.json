@@ -1,0 +1,50 @@
+[
+  {
+    "def_max": 0.089404229243330302, 
+    "elements": 120, 
+    "strain_max": 0.00066266427367669164, 
+    "element_size_mm": 6.0, 
+    "stress_max": 132.53285568567182, 
+    "nodes": 1013
+  }, 
+  {
+    "def_max": 0.089409726435949216, 
+    "elements": 225, 
+    "strain_max": 0.00066996473182427533, 
+    "element_size_mm": 4.0, 
+    "stress_max": 133.99294972499484, 
+    "nodes": 1828
+  }, 
+  {
+    "def_max": 0.089412743503623229, 
+    "elements": 399, 
+    "strain_max": 0.00067231704029614226, 
+    "element_size_mm": 3.0, 
+    "stress_max": 134.46340853399647, 
+    "nodes": 3116
+  }, 
+  {
+    "def_max": 0.089416997315517457, 
+    "elements": 1700, 
+    "strain_max": 0.00067298741708060204, 
+    "element_size_mm": 2.0, 
+    "stress_max": 134.59748758154743, 
+    "nodes": 10115
+  }, 
+  {
+    "def_max": 0.089418323366668939, 
+    "elements": 2912, 
+    "strain_max": 0.0006770339296570619, 
+    "element_size_mm": 1.5, 
+    "stress_max": 135.40679151967004, 
+    "nodes": 17021
+  }, 
+  {
+    "def_max": 0.089421236253288558, 
+    "elements": 9519, 
+    "strain_max": 0.00077961848940399285, 
+    "element_size_mm": 1.0, 
+    "stress_max": 155.92370134728611, 
+    "nodes": 49648
+  }
+]
